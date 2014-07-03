@@ -15,6 +15,16 @@ AngularJS-native version of [Select2](http://ivaynberg.github.io/select2/) and [
 
 For the roadmap, check [issue #3](https://github.com/angular-ui/ui-select/issues/3) and the [Wiki page](https://github.com/angular-ui/ui-select/wiki/Roadmap).
 
+## Other similar components
+
+- Select2 http://ivaynberg.github.io/select2/
+- Selectize http://brianreavis.github.io/selectize.js/
+- Chosen http://harvesthq.github.io/chosen/
+- bselect http://gustavohenke.github.io/bselect/
+- Bootstrap Multiselect http://davidstutz.github.io/bootstrap-multiselect/
+- bootstrap-select http://silviomoreto.github.io/bootstrap-select/
+- nya-Bootstrap-Select http://nya.io/nya-bootstrap-select/
+
 ## Browser compatibility
 
 Starting from Internet Explorer 8 and Firefox 3.6 included.
