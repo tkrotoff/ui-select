@@ -24,6 +24,9 @@ For the roadmap, check [issue #3](https://github.com/angular-ui/ui-select/issues
 - Bootstrap Multiselect http://davidstutz.github.io/bootstrap-multiselect/
 - bootstrap-select http://silviomoreto.github.io/bootstrap-select/
 - nya-Bootstrap-Select http://nya.io/nya-bootstrap-select/
+- ez-select https://github.com/jdewit/ez-select
+- angular-multiselect https://github.com/amitava82/angular-multiselect
+- DropdownMultiselect http://jsfiddle.net/jaredwilli/vUSPu/
 
 ## Browser compatibility
 
